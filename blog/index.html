@@ -16,11 +16,28 @@ pagination:
 <div class="post">
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h1>Blog Coming Soon!</h1>
+    <h5>Making theory approachable—because good ideas shouldn’t be hard to read.</h5>
   </div>
 
-  {% if site.display_tags %}
+  
+  <p>
+    Reading research papers—especially in areas like distributed computing or algorithm theory—can be overwhelming without the right context. My goal is to bridge that gap by breaking down complex ideas into clear, intuitive explanations.
+  </p>
+  
+  <p>I plan to write about questions like:</p>
+  
+  <ul>
+    <li>What are dynamic networks and why do they matter?</li>
+    <li>Why study anonymous agents in distributed systems?</li>
+    <li>What are some beautiful but overlooked theoretical algorithms?</li>
+  </ul>
+  
+  <p>
+    Whether you're a student, a curious researcher, or someone just interested in the "why" behind the math, I hope this blog can be a helpful guide into the world of theoretical computer science.
+  </p>
+  
+  <!-- {% if site.display_tags %}
   <div class="tag-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -33,9 +50,9 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
+  {% endif %} -->
 
-  <ul class="post-list">
+  <!-- <ul class="post-list">
     {% for post in paginator.posts %}
 
     {% if post.external_source == blank %}
@@ -93,8 +110,8 @@ pagination:
     </li>
 
     {% endfor %}
-  </ul>
+  </ul> -->
 
-  {% include pagination.html %}
+  <!-- {% include pagination.html %} -->
 
 </div>

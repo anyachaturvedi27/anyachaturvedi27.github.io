@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-28
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<p>
+  Our  paper&mdash;<a href="https://arxiv.org/abs/2505.16139">On the Runtime of Local Mutual Exclusion for Anonymous Dynamic Networks</a>&mdash;was accepted at 
+  <a href="https://sand2025.csc.liv.ac.uk/">SAND'25 </a>.
+</p>

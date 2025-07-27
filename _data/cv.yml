@@ -2,96 +2,181 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Anya Chaturvedi
+    - name: Current Position
+      value: Ph.D. Student at Arizona State University
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/anyachaturvedi/">anyachaturvedi</a>
+    - name: Institute Email
+      value: firstName.lastName@asu.edu
+    - name: Personal Email
+      value: firstName.lastName27@gmail.com
+    - name: Research Areas
+      value: Distributed Algorithms, Randomized Algorithms, Combinatorial Algorithms, Approximation Algorithms
+    - name: Ph.D. Advisor
+      value: <a href="https://search.asu.edu/profile/198256">Andréa W. Richa</a>
+    - name: Research Lab Webpage
+      value: <a href="https://labs.engineering.asu.edu/sops/">Self-Organizing Particle Systems (SOPS)</a>
+    # - name: Date of Birth
+    #   value: 27th February 1995
+    # - name: Languages
+    #   value: English, Hindi
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Computer Science 
+      institution: Arizona State Unveristy, Tempe, Arizona
+      year: 2022 - Present
+      GPA: 4.00/4.00
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: M.S. in Computer Science
+      institution: Arizona State Unveristy, Tempe, Arizona
+      year: 2018 - 2020
+      GPA: 4.00/4.00
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: B.Tech. in Information Technology
+      institution: Motilal Nehru National Institute of Technology, Allahabad, India
+      year: 2014 - 2018
+      GPA: 8.54/10.00
 
-- title: Experience
+- title: Industry Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Automation Software Engineer
+      institution: Intel Corporation
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed and tested software solutions for factory automation systems.
+        - Contributed to improving automation workflows by implementing reliable and scalable code.
+        - Collaborated with cross-functional teams to integrate analytics with automation tools.
+        - Ensured high-quality deployment through rigorous testing and debugging processes.
+    - title: Automation Intern
+      institution: Intel Corporation
+      year: Summer 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Designed and developed a cross-platform web application for managing conference reviews.
+        - Ensured compatibility across major browsers and operating systems for a seamless user experience.
+        - Applied optimization techniques to improve performance and responsiveness.
+        - Implemented testing procedures to validate functionality across diverse environments.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Academic Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Visiting Scholar
+      institution: Purdue University
+      advisor: <a href="https://www.cs.purdue.edu/people/faculty/ayg.html">Dr. Ananth Grama</a>
+      year: Summer 2023
+      description:
+        - Studied the impact of noise and faults on neural network performance.
+        - Evaluated neural networks’ robustness to simulated faults.
+    - title: Graduate Research Assistant
+      institution: Arizona State University
+      year: Fall 2022 - Present
+      # year: Fall 2018-Summer 2020 <br> Fall 2022-Present
+      advisor: <a href="https://search.asu.edu/profile/198256">Dr. Andréa W. Richa</a>
+      description:
+        - Conduct research in distributed computing with a focus on randomized and combinatorial optimization algorithms.
+        - Explore innovative bio-inspired approaches to solve complex distributed system problems.
+    - title: Graduate Teaching Assistant
+      institution: Arizona State University
+      year: Spring 2019 <br> Spring 2020 <br> Fall 2024 
+      advisor: <a href="https://search.asu.edu/profile/198256">Dr. Andréa W. Richa</a>
+      description:
+        - Conducted doubt-clearing sessions to support students’ understanding of core algorithmic concepts.
+        - Designed assignments and developed detailed solutions for both online and in-person course offerings at ASU and Coursera.
+        - Assisted the instructor in managing coursework and addressing student queries throughout the semester.
+    - title: Summer Undergraduate Research Internship
+      institution: Indian Institute of Technology Kanpur
+      year: Summer 2017
+      advisor: <a href="https://www.cse.iitk.ac.in/users/sbaswana/">Dr. Surender Baswana</a>
+      description:
+        - Explored efficient randomized algorithms for the Smallest Enclosing Circle and Minimum Spanning Tree problems.
+        - Applied novel algorithmic ideas to improve runtime performance on large inputs.
+        - Validated correctness and scalability on datasets with over 1 million nodes.
+    - title: Summer Undergraduate Research Internship
+      institution: Indian Institute of Technology Delhi
+      year: Summer 2016
+      advisor: <a href="https://www.cse.iitd.ac.in/~naveen/">Dr. Naveen Garg</a>
+      description:
+        - Explored approximation strategies for the NP-hard Capacitated 𝑘-Center problem.
+        - Designed and analyzed algorithms under capacity constraints to improve solution quality.
+        - Developed a deeper understanding of the importance of counterexamples in identifying flaws in algorithm design and correctness proofs.
+# - title: Course Projects
+#   type: time_table
+#   contents:
+#     - title: Spatial Hot Spot Analysis
+#       year: May 2020
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Academic Interests
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+- title: Publications
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Journal and Conference Publications
       items:
-        - Description 1.
-        - Description 2.
+        - 'Anya Chaturvedi, Chandra Chekuri, Andréa W. Richa, Matthias Rost, Stefan Schmid, and Jamison Weber. <i>Improved Throughput for All-or-Nothing Multicommodity Flows with Arbitrary Demands</i>. <i>ACM SIGMETRICS Performance Evaluation Review</i>, 49(3):22–27, 2022. <a href="https://doi.org/10.1145/3529113.3529121">https://doi.org/10.1145/3529113.3529121</a>'
+        - 'Anya Chaturvedi, Chandra Chekuri, Mengxue Liu, Andréa W. Richa, Matthias Rost, Stefan Schmid, and Jamison Weber. <i>Improved Throughput for All-or-Nothing Multicommodity Flows With Arbitrary Demands</i>. <i>IEEE/ACM Transactions on Networking</i>, 32(2):1435–1450, 2024. <a href="https://doi.org/10.1109/tnet.2023.3325437">https://doi.org/10.1109/tnet.2023.3325437</a>'
+        - 'Anya Chaturvedi, Joshua J. Daymude, and Andréa W. Richa. <i>On the Runtime of Local Mutual Exclusion for Anonymous Dynamic Networks</i>. In <i>4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)</i>, volume 330 of LIPIcs, pages 15:1–15:16, 2025. <a href="https://doi.org/10.4230/LIPIcs.SAND.2025.15">https://doi.org/10.4230/LIPIcs.SAND.2025.15</a>'
 
-- title: Other Interests
-  type: list
+    - title: Preprints
+      items:
+        - 'Devendra Parkar, Anya Chaturvedi, Andréa W. Richa, and Joshua J. Daymude. <i>Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning</i>. <i>arXiv.org</i>, 2025. <a href="https://arxiv.org/abs/2505.13754">https://arxiv.org/abs/2505.13754</a>'
+        - 'Rida Bazzi, Anya Chaturvedi, Andréa W. Richa, and Peter Vargas. <i>Synchronization in Anonymous Networks Under Continuous Dynamics</i>. <i>arXiv.org</i>, 2025. <a href="https://arxiv.org/abs/2506.08661">https://arxiv.org/abs/2506.08661</a>'
+
+
+- title: Extracurricular Involvement
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Leadership Roles
+      items: 
+        - Vice President of External Affairs, Graduate Student Government, ASU
+        - Director of Accessibility and Inclusion, Graduate Student Government, ASU
+        - Research and Travel Award Reviewer, GPSA Awards Committee, ASU
+        - International Student Affairs Committee, University Boards and Committees, ASU
+
+    - title: Honors & Fellowships
+      items:
+        - Fulton Fellowship Award Recipient, ASU
+        - Graduate Student Government Travel Grant, ASU
+        - Graduate College Travel Award, ASU
+    
+    - title: Professional Memberships
+      items:
+        - Association for Computing Machinery
+        - Women in Computer Science, ASU
+        - Software Developers’ Association, ASU
+        - Graduate Women Association, ASU
+
+    
