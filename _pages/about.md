@@ -6,7 +6,7 @@ subtitle: PhD Student @ Arizona State University
 
 profile:
   align: left
-  image: prof_pic_color.png
+  image: AC_2025_3.png
   image_circular: true # crops the image to make it circular
   more_info: >
 
