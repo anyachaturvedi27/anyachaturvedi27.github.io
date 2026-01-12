@@ -26,13 +26,15 @@ announcements:
 ---
 
 
-I’m a Ph.D. student in Computer Science at Arizona State University, working in the area of theoretical computer science, with a focus on distributed algorithms. My research explores how collections of simple, memory-limited agents can coordinate in dynamic and anonymous networks.
+I am a Ph.D. student in Computer Science at Arizona State University, working under <a href="https://search.asu.edu/profile/198256">Prof. Andréa Richa</a>. My research has two main directions: understanding how simple, memory-limited agents coordinate in dynamic, anonymous networks, and exploring traditional combinatorial optimization problems in both centralized and distributed environments.
 
-I completed my M.S. in Computer Science at ASU, where my thesis—Improved Throughput for All-or-Nothing Multicommodity Flows with Arbitrary Demands—proposed a polynomial-time randomized approximation algorithm for maximizing weighted throughput in multicommodity flow networks, allowing only minimal violations of capacity constraints. The work also included a deterministic derandomization via pessimistic estimators and a proof-of-concept empirical evaluation.
+Real-world distributed systems&mdash;like mobile peer-to-peer networks, wireless sensors, and multi-agent swarms&mdash;are inherently dynamic. Many involve entities with limited memory and communication, operating anonymously. My work studies how locality, anonymity, and constrained resources shape what algorithms can achieve and how efficiently they operate, bridging theory with practical network design.
 
-After earning my M.S., I worked at Intel for two years as an Automation Engineer. That experience reinforced what I had already observed: many powerful theoretical results remain untapped in real-world systems. My Ph.D. is an opportunity to help bridge this gap—bringing distributed computing theory closer to practical, resource-constrained environments.
+I earned my M.S. in Computer Science at ASU under Prof. Richa, where my thesis, Improved Throughput for All-or-Nothing Multicommodity Flows with Arbitrary Demands, introduced a polynomial-time randomized approximation algorithm to maximize weighted throughput in multicommodity flow networks while keeping capacity violations minimal. Thanks to Prof. Richa, I have had the opportunity to collaborate with and learn from reputed professors across fields and universities, which has not only broadened my perspective but also enriched my research.
 
-I received my B.Tech. in Information Technology from MNNIT Allahabad.
+After my master’s, I spent two years at Intel as an Automation Engineer. That experience confirmed what I had long suspected: the gap between theoretical results and real-world systems is large. My Ph.D. allows me to help bridge that gap, bringing theoretical insights to resource-constrained environments where every bit of efficiency counts.
+
+I began my journey in computer science with a B.Tech. in Information Technology from Motilal Nehru National Institute of Technology (MNNIT) Allahabad, India, and I have been pursuing the intersection of theory and practice ever since.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
