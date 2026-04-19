@@ -72,13 +72,6 @@
 - title: Academic Experience
   type: time_table
   contents:
-    - title: Visiting Scholar
-      institution: Purdue University
-      advisor: <a href="https://www.cs.purdue.edu/people/faculty/ayg.html">Dr. Ananth Grama</a>
-      year: Summer 2023
-      description:
-        - Studied the impact of noise and faults on neural network performance.
-        - Evaluated neural networks’ robustness to simulated faults.
     - title: Graduate Research Assistant
       institution: Arizona State University
       year: Fall 2022 - Present
@@ -89,9 +82,25 @@
         - Explore innovative bio-inspired approaches to solve complex distributed system problems.
     - title: Graduate Teaching Assistant
       institution: Arizona State University
-      year: Spring 2019 <br> Spring 2020 <br> Fall 2024 
+      year: Spring 2026
+      advisor: <a href="https://search.asu.edu/profile/1903590">Dr. Joshua J. Daymude</a>
+      description:
+        - Teaching assistant for CSE 450 (Foundations of Algorithms).
+        - Hold office hours to support students’ understanding of core algorithmic concepts.
+        - Assist with grading, project design, and course material preparation as required by the instructor.
+    - title: Visiting Scholar
+      institution: Purdue University
+      advisor: <a href="https://www.cs.purdue.edu/people/faculty/ayg.html">Dr. Ananth Grama</a>
+      year: Summer 2023
+      description:
+        - Studied the impact of noise and faults on neural network performance.
+        - Evaluated neural networks’ robustness to simulated faults.
+    - title: Graduate Teaching Assistant
+      institution: Arizona State University
+      year: Spring 2019 <br> Spring 2020 <br> Fall 2024
       advisor: <a href="https://search.asu.edu/profile/198256">Dr. Andréa W. Richa</a>
       description:
+        - Teaching assistant for CSE 551 (Graduate Foundations of Algorithms) and CSE 450 (Undergraduate Foundations of Algorithms).
         - Conducted doubt-clearing sessions to support students’ understanding of core algorithmic concepts.
         - Designed assignments and developed detailed solutions for both online and in-person course offerings at ASU and Coursera.
         - Assisted the instructor in managing coursework and addressing student queries throughout the semester.
@@ -146,14 +155,11 @@
   contents:
     - title: Journal and Conference Publications
       items:
-        - 'Anya Chaturvedi, Chandra Chekuri, Andréa W. Richa, Matthias Rost, Stefan Schmid, and Jamison Weber. <i>Improved Throughput for All-or-Nothing Multicommodity Flows with Arbitrary Demands</i>. <i>ACM SIGMETRICS Performance Evaluation Review</i>, 49(3):22–27, 2022. <a href="https://doi.org/10.1145/3529113.3529121">https://doi.org/10.1145/3529113.3529121</a>'
-        - 'Anya Chaturvedi, Chandra Chekuri, Mengxue Liu, Andréa W. Richa, Matthias Rost, Stefan Schmid, and Jamison Weber. <i>Improved Throughput for All-or-Nothing Multicommodity Flows With Arbitrary Demands</i>. <i>IEEE/ACM Transactions on Networking</i>, 32(2):1435–1450, 2024. <a href="https://doi.org/10.1109/tnet.2023.3325437">https://doi.org/10.1109/tnet.2023.3325437</a>'
-        - 'Anya Chaturvedi, Joshua J. Daymude, and Andréa W. Richa. <i>On the Runtime of Local Mutual Exclusion for Anonymous Dynamic Networks</i>. In <i>4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)</i>, volume 330 of LIPIcs, pages 15:1–15:16, 2025. <a href="https://doi.org/10.4230/LIPIcs.SAND.2025.15">https://doi.org/10.4230/LIPIcs.SAND.2025.15</a>'
-
-    - title: Preprints
-      items:
-        - 'Devendra Parkar, Anya Chaturvedi, Andréa W. Richa, and Joshua J. Daymude. <i>Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning</i>. <i>arXiv.org</i>, 2025. <a href="https://arxiv.org/abs/2505.13754">https://arxiv.org/abs/2505.13754</a>'
-        - 'Rida Bazzi, Anya Chaturvedi, Andréa W. Richa, and Peter Vargas. <i>Synchronization in Anonymous Networks Under Continuous Dynamics</i>. <i>arXiv.org</i>, 2025. <a href="https://arxiv.org/abs/2506.08661">https://arxiv.org/abs/2506.08661</a>'
+        - 'Devendra Parkar, Anya Chaturvedi, and Joshua J. Daymude. <a href="https://arxiv.org/abs/2505.13754"><i>Unsupervised Learning of Local Updates for Maximum Independent Set in Dynamic Graphs</i></a>. In <i>International Joint Conference on Neural Networks (IJCNN 2026)</i>. Preliminary version at <i>DiffCoAlg Workshop at NeurIPS 2025</i>.'
+        - 'Rida Bazzi, Anya Chaturvedi, Andréa W. Richa, and Peter Vargas. <a href="https://doi.org/10.4230/LIPIcs.DISC.2025.49"><i>Brief Announcement: Synchronization in Anonymous Networks Under Arbitrary Dynamics</i></a>. In <i>39th International Symposium on Distributed Computing (DISC 2025)</i>, volume 356 of LIPIcs, pages 49:1–49:8, 2025. Extended version: <a href="https://arxiv.org/abs/2506.08661">arXiv</a>.'
+        - 'Anya Chaturvedi, Joshua J. Daymude, and Andréa W. Richa. <a href="https://doi.org/10.4230/LIPIcs.SAND.2025.15"><i>On the Runtime of Local Mutual Exclusion for Anonymous Dynamic Networks</i></a>. In <i>4th Symposium on Algorithmic Foundations of Dynamic Networks (SAND 2025)</i>, volume 330 of LIPIcs, pages 15:1–15:16, 2025.'
+        - 'Anya Chaturvedi, Chandra Chekuri, Mengxue Liu, Andréa W. Richa, Matthias Rost, Stefan Schmid, and Jamison Weber. <a href="https://doi.org/10.1109/tnet.2023.3325437"><i>Improved Throughput for All-or-Nothing Multicommodity Flows With Arbitrary Demands</i></a>. <i>IEEE/ACM Transactions on Networking</i>, 32(2):1435–1450, 2024.'
+        - 'Anya Chaturvedi, Chandra Chekuri, Andréa W. Richa, Matthias Rost, Stefan Schmid, and Jamison Weber. <a href="https://doi.org/10.1145/3529113.3529121"><i>Improved Throughput for All-or-Nothing Multicommodity Flows with Arbitrary Demands</i></a>. <i>ACM SIGMETRICS Performance Evaluation Review</i>, 49(3):22–27, 2022.'
 
 
 - title: Extracurricular Involvement
@@ -168,7 +174,11 @@
 
     - title: Honors & Fellowships
       items:
-        - Fulton Fellowship Award Recipient, ASU
+        - Outstanding Research Award, Graduate Student Government, ASU
+        - Outstanding Mentorship Award, Graduate Student Government, ASU
+        - Catalyst Student Award, Committee for Campus Inclusion, ASU
+        - Doctoral Student Spotlight, School of Computing and Augmented Intelligence, ASU
+        - Fulton Fellowship Award, ASU
         - Graduate Student Government Travel Grant, ASU
         - Graduate College Travel Award, ASU
     
