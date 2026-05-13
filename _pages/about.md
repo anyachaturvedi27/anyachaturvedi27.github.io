@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student @ Arizona State University
+subtitle: Ph.D. Candidate @ Arizona State University
 
 profile:
   align: left
@@ -26,7 +26,7 @@ announcements:
 ---
 
 
-I am a Ph.D. student in Computer Science at Arizona State University, working under <a href="https://search.asu.edu/profile/198256">Prof. Andréa Richa</a>. My research has two main directions: understanding how simple, memory-limited agents coordinate in dynamic, anonymous networks, and exploring traditional combinatorial optimization problems in both centralized and distributed environments.
+I am a Ph.D. candidate in Computer Science at Arizona State University, working under <a href="https://search.asu.edu/profile/198256">Prof. Andréa Richa</a>. My research has two main directions: understanding how simple, memory-limited agents coordinate in dynamic, anonymous networks, and exploring traditional combinatorial optimization problems in both centralized and distributed environments.
 
 Real-world distributed systems&mdash;like mobile peer-to-peer networks, wireless sensors, and multi-agent swarms&mdash;are inherently dynamic. Many involve entities with limited memory and communication, operating anonymously. My work studies how locality, anonymity, and constrained resources shape what algorithms can achieve and how efficiently they operate, bridging theory with practical network design.
 
